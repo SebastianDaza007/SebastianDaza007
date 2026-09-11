@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gastón Sebastián Daza 👋
-### Estudiante Avanzado de Ingeniería en Informática | Desarrollador de Software
+### Estudiante de Ingeniería en Informática | Desarrollador de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaston-sebastian-daza-707413252)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gastonsebastiandaza@gmail.com)
