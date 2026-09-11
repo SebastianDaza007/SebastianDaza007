@@ -14,6 +14,7 @@
 ### 👨‍💻 Perfil Profesional
 
 - 🎓 Estudiante avanzado de **Ingeniería en Informática**.
+- 🤝 Orientado al trabajo en equipo bajo metodologías ágiles (Scrum/Kanban), priorizando la comunicación clara, el versionado colaborativo y las entregas iterativas.
 - 🛠️ Experiencia en **desarrollo full-stack**, arquitectura de software, bases de datos y soporte/infraestructura técnica.
 - 🎯 Enfoque en código limpio, modularidad, diseño de interfaces funcionales y resolución de problemas de negocio.
 - 💡 Interés en optimización de rendimiento, automatización de procesos y entornos colaborativos.
